@@ -2,7 +2,7 @@
 
 ## Introduction
 Howzattt!! Remember the school days when everyone would gather around in recess time and team up to throw hands at each other (no karate-kid here). From cheering on the half-century and century to arguing on getting out to nail-bitting clutches. The game gave us a lot of good memories.
-This repo indeed does contain the virtual version of the great Game. The game was made using powers of Open-CV and Keras library. The game would be played between you and the computer. So get scoring and winning big!
+This repo indeed does contain the virtual version of the great Game. The game was made using powers of Open-CV and Keras library. The game would be played between you and the computer. So get scoring and start winning big!
 
 ## Rules of the Game :clipboard:
 The rules are simple as followed:
